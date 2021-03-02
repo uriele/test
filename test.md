@@ -35,7 +35,7 @@ Did you find all clues
 ## Graphs and Diagrams
 
 
-```
+```mermaid
 flowchart TB
     subgraph debrefing
     a1[Enter the scene of the crime ]-->a2[talk with the handler]
